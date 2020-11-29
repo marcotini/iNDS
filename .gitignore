@@ -17,7 +17,6 @@ DerivedData
 *.hmap
 *.xccheckout
 build/*
-Pods/
 dist/*
 
 # Due to cross-platform restrictions
